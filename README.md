@@ -13,3 +13,6 @@ ADMIN Execute order in chunks. Every Executions of order will accept 2 inputs â€
 ## MODULES:
     - FRONTEND MODULES
     - BACKEND MODULES
+
+## ARCHITECTURE:
+![UML_SEQUENCE](https://user-images.githubusercontent.com/54365583/151654965-18953e09-4985-4b44-88da-4ac05d68d09c.png)
